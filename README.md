@@ -5,24 +5,28 @@
   Hi, I'm <strong>Dasari Sriharikrishna</strong>
 </h1>
 
-<h3>Product Engineer (Frontend) | Next.js & React Specialist</h3>
+<h3>Product Engineer (Frontend) | Next.js • React • React Native Specialist</h3>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
     Frontend Product Engineer with strong hands-on experience building scalable, 
-    high-performance web applications using <strong>Next.js, React, and TypeScript</strong>.
+    high-performance web & mobile applications using 
+    <strong>Next.js, React, TypeScript, and React Native</strong>.
   </p>
 
   <p>
     I specialize in component-driven UI architecture, RBAC-based systems, 
-    analytics dashboards, and production-grade frontend systems.
+    analytics dashboards, authentication-driven flows, and production-grade frontend systems.
   </p>
 
   <p>
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:dsriharik8432@gmail.com"><img src="https://img.shields.io/badge/📧_dsriharik8432@gmail.com-1e1e2e?style=for-the-badge" /></a>
+    <a href="mailto:dsriharik8432@gmail.com">
+      <img src="https://img.shields.io/badge/📧_dsriharik8432@gmail.com-1e1e2e?style=for-the-badge" />
+    </a>
+    <img src="https://img.shields.io/badge/📱_React_Native_Developer-1e1e2e?style=for-the-badge" />
     <img src="https://img.shields.io/badge/🤝_Open_to_Frontend_Opportunities-1e1e2e?style=for-the-badge" />
   </p>
 
@@ -63,9 +67,9 @@
 </td>
 
 <td width="50%" align="center">
-<h3>🎨 Frontend</h3>
+<h3>🎨 Frontend & Mobile</h3>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,materialui" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,html,css,tailwind,materialui" />
 
 </td>
 </tr>
@@ -102,26 +106,26 @@ Redux Toolkit • Async Thunks • RBAC • OOP • REST API Integration
 - Owned frontend development of **SanathanaVani** (Media Management Platform)
 - Built scalable UI architecture using Next.js + TypeScript
 - Implemented RBAC and authentication-driven UI flows
-- Integrated REST APIs for analytics, media uploads & CRUD
-- Optimized dashboard performance across devices
+- Integrated REST APIs for analytics, media uploads & CRUD operations
+- Optimized dashboard responsiveness and performance
 
 ### 🧑‍💻 Product Engineer Intern — Signitives IT Solutions (Jul 2024 – Nov 2024)
 
-- Built reusable UI components
+- Built reusable UI components using React & Next.js
 - Integrated production APIs
-- Followed Git-based workflows & agile practices
+- Followed Git-based workflows & agile methodology
 - Converted to full-time based on performance
 
 ---
 
 ## 🏗️ Featured Projects
 
-### 🎧 SanathanaVani
-Media management platform supporting audio, video, podcasts & eBooks  
+### 🎧 SanathanaVani – Media Management Platform
+Built frontend architecture for audio, video, podcast & eBook workflows  
 Tech: Next.js, React, TypeScript, Redux Toolkit, Tailwind CSS
 
-### 🎓 Educare.AI
-School management system with Admin, Teacher & Parent dashboards  
+### 🎓 Educare.AI – School Management Platform
+Admin, Teacher & Parent dashboards with RBAC & analytics  
 Tech: Next.js, React, TypeScript, Redux Toolkit
 
 ### 📊 Pronto – Admin Dashboard

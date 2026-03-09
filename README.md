@@ -150,7 +150,7 @@ Tech: React, Redux Toolkit, Tailwind CSS
 ## ❤️ Support My Work
 
 <p align="center">
-  <a href="https://dsrikportfolio.netlify.app/">
+  <a href="https://dskh-portfolio.netlify.app/">
     <img src="https://img.shields.io/badge/Visit_My_Portfolio-000?style=for-the-badge&logoColor=white" />
   </a>
 </p>

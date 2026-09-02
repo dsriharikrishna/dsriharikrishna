@@ -5,152 +5,498 @@
   Hi, I'm <strong>Dasari Sriharikrishna</strong>
 </h1>
 
-<h3>Product Engineer (Frontend) | Next.js • React • React Native Specialist</h3>
+<h3>🚀 Product Engineer | Frontend & Full-Stack Developer | React • Next.js • TypeScript</h3>
 
-<div align="left">
-  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
-
-  <p>
-    Frontend Product Engineer with strong hands-on experience building scalable, 
-    high-performance web & mobile applications using 
-    <strong>Next.js, React, TypeScript, and React Native</strong>.
-  </p>
-
-  <p>
-    I specialize in component-driven UI architecture, RBAC-based systems, 
-    analytics dashboards, authentication-driven flows, and production-grade frontend systems.
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:dsriharik8432@gmail.com">
-      <img src="https://img.shields.io/badge/📧_dsriharik8432@gmail.com-1e1e2e?style=for-the-badge" />
-    </a>
-    <img src="https://img.shields.io/badge/📱_React_Native_Developer-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🤝_Open_to_Frontend_Opportunities-1e1e2e?style=for-the-badge" />
-  </p>
-
-<h3>🌐 Connect With Me</h3>
-  
-<p align="left">
-  <a href="https://github.com/dsriharikrishna">
-    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://linkedin.com/in/dasari-sriharikrishna">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://dsrikportfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=white" />
-  </a>
+<p>
+  <strong>2+ years of experience</strong> building scalable, production-ready web and mobile applications
+  with a strong focus on frontend architecture, SaaS platforms, dashboards, workflow systems and
+  API-driven applications.
 </p>
-
-  <img src="https://komarev.com/ghpvc/?username=dsriharikrishna&style=flat-square&color=blue" alt="Profile Visit"/>
-</div>
-
-<br clear="all" />
 
 ---
 
-## 🛠️ Technical Skills
+## 👨‍💻 About Me
 
-<p align="center">
+* 💼 Product Engineer at **Signitives IT Solutions**
+* ⚛️ Specialized in **React.js, Next.js and TypeScript**
+* 📱 Experience building applications with **React Native**
+* 🏗️ Strong focus on **component-driven architecture & reusable UI systems**
+* 🔐 Experience with **RBAC, authentication & authorization-driven applications**
+* 📊 Built **analytics dashboards, admin panels and workflow-driven SaaS applications**
+* 🔌 Experienced in **REST API integration and API-driven frontend architecture**
+* 🗄️ Comfortable working with **Node.js, Express.js, FastAPI and databases**
+* 🐳 Currently strengthening **Docker, AWS and cloud engineering**
+* ☁️ Interested in building **scalable cloud-native applications**
+* 🎯 Preparing for **SDE-2 / Product Engineering opportunities**
+
+---
+
+## 🧠 Core Expertise
+
+### 🎨 Frontend Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind" />
+</p>
+
+* React.js
+* Next.js (App Router)
+* TypeScript
+* JavaScript (ES6+)
+* HTML5 / CSS3
+* Tailwind CSS
+* Material UI
+* shadcn/ui
+* Responsive UI Development
+* Component-Driven Architecture
+* Reusable Design Systems
+* Performance Optimization
+
+---
+
+### 📱 Mobile Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react" />
+</p>
+
+* React Native
+* Expo
+* Cross-platform application development
+* API integration
+* Authentication flows
+* Reusable mobile components
+
+---
+
+### 🧩 State Management & Data Fetching
+
+* Redux Toolkit
+* Redux Async Thunks
+* Zustand
+* TanStack React Query
+* Server State Management
+* Client State Management
+* Optimistic Updates
+* API Caching
+* Query Invalidation
+
+---
+
+### 📝 Forms & Validation
+
+* React Hook Form
+* Zod
+* Schema-based validation
+* Complex dynamic forms
+* Multi-step forms
+* Form state optimization
+
+---
+
+### ⚙️ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" />
+</p>
+
+* Node.js
+* Express.js
+* Python
+* FastAPI
+* REST APIs
+* Authentication & Authorization
+* CRUD APIs
+* API Integration
+* Backend Feature Development
+
+---
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</p>
+
+* PostgreSQL
+* MySQL
+* MongoDB
+* SQL
+* Prisma
+* Database relationships
+* Query optimization
+* Alembic migrations
+
+---
+
+### 🏗️ Architecture & Engineering
+
+* Component-Driven Architecture
+* Feature-Based Architecture
+* RBAC Systems
+* Authentication Architecture
+* REST API Architecture
+* SaaS Application Architecture
+* Modular Frontend Architecture
+* Reusable Component Systems
+* Scalable Dashboard Architecture
+* OOP & Problem Solving
+
+---
+
+### ☁️ Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,bash,git,github" />
+</p>
+
+* Docker
+* Docker Compose
+* AWS
+* AWS S3
+* AWS EC2
+* AWS IAM
+* Presigned URLs
+* Vercel
+* Linux
+* Bash
+* Git
+* GitHub
+* CI/CD fundamentals
+
+> 🚧 Currently deepening my knowledge of AWS, Docker, Linux/Bash and cloud-native architecture.
+
+---
+
+### 🧪 Testing & Quality
+
+* Jest
+* React Testing Library
+* Playwright
+* Cypress
+* API Testing
+* Component Testing
+* End-to-End Testing
+* QA Bug Resolution
+* Production Debugging
+
+---
+
+### 🎨 UI & Visualization
+
+* Framer Motion
+* GSAP
+* Three.js
+* Recharts
+* TanStack Table
+* MUI
+* shadcn/ui
+* Magic UI
+
+---
+
+## 🛠️ Tech Stack
+
 <table>
 <tr>
 <td width="50%" align="center">
-<h3>💻 Languages</h3>
 
-<img src="https://skillicons.dev/icons?i=javascript,typescript,java" />
-<br/><br/>
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=javascript,typescript,java,python,bash" />
 
 </td>
 
 <td width="50%" align="center">
-<h3>🎨 Frontend & Mobile</h3>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,html,css,tailwind,materialui" />
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
 
 </td>
 </tr>
 
 <tr>
 <td width="50%" align="center">
-<h3>🗄️ Backend & Databases</h3>
 
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql" />
-<br/><br/>
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" />
 
 </td>
 
 <td width="50%" align="center">
-<h3>🧠 State & Architecture</h3>
 
-Redux Toolkit • Async Thunks • RBAC • OOP • REST API Integration  
-<br/><br/>
-<h3>🧰 Tools</h3>
+### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+### ☁️ Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,bash" />
+
+</td>
+
+<td width="50%" align="center">
+
+### 🔧 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
 </td>
 </tr>
 </table>
-</p>
 
 ---
 
-## 🚀 Professional Experience
+# 💼 Professional Experience
 
-### 🏢 Product Engineer — Signitives IT Solutions (Dec 2024 – Present)
+## 🏢 Product Engineer — Signitives IT Solutions
 
-- Owned frontend development of **SanathanaVani** (Media Management Platform)
-- Built scalable UI architecture using Next.js + TypeScript
-- Implemented RBAC and authentication-driven UI flows
-- Integrated REST APIs for analytics, media uploads & CRUD operations
-- Optimized dashboard responsiveness and performance
+**Dec 2024 – Present**
 
-### 🧑‍💻 Product Engineer Intern — Signitives IT Solutions (Jul 2024 – Nov 2024)
+Working on enterprise SaaS and AI operations platforms, focusing primarily on frontend product engineering and scalable application architecture.
 
-- Built reusable UI components using React & Next.js
-- Integrated production APIs
-- Followed Git-based workflows & agile methodology
-- Converted to full-time based on performance
+### Key Responsibilities
 
----
-
-## 🏗️ Featured Projects
-
-### 🎧 SanathanaVani – Media Management Platform
-Built frontend architecture for audio, video, podcast & eBook workflows  
-Tech: Next.js, React, TypeScript, Redux Toolkit, Tailwind CSS
-
-### 🎓 Educare.AI – School Management Platform
-Admin, Teacher & Parent dashboards with RBAC & analytics  
-Tech: Next.js, React, TypeScript, Redux Toolkit
-
-### 📊 Pronto – Admin Dashboard
-Booking management system with full CRUD operations  
-Tech: React, Node.js, Material-UI
-
-### 🤖 Fit4Hire – AI Career Platform
-ATS resume builder & LinkedIn analytics dashboard  
-Tech: React, Redux Toolkit, Tailwind CSS
+* Built and maintained production-grade applications using **Next.js, React and TypeScript**
+* Developed complex **enterprise dashboards and workflow-driven applications**
+* Implemented reusable component systems and modular frontend architecture
+* Developed **RBAC-based interfaces** for multiple user roles
+* Integrated REST APIs across multiple product modules
+* Implemented authentication-driven application flows
+* Worked on complex campaign, dataset and workflow management systems
+* Improved frontend performance using `useMemo`, `useCallback` and optimized rendering strategies
+* Implemented loading, error and empty states across production modules
+* Worked closely with QA and product teams to resolve production issues
+* Translated Figma designs into responsive production-ready interfaces
+* Worked with Git-based development and PR workflows
 
 ---
 
-## 📊 GitHub Stats
+## 🧑‍💻 Product Engineer Intern — Signitives IT Solutions
+
+**Jul 2024 – Nov 2024**
+
+* Developed reusable React and Next.js components
+* Integrated REST APIs
+* Implemented responsive UI interfaces
+* Worked with TypeScript and modern frontend patterns
+* Followed Git-based development workflows
+* Collaborated with developers and product teams
+* Converted to full-time based on performance
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 ORKA.AI — Enterprise AI Operations Platform
+
+Enterprise platform for dataset management, AI workflows, human evaluation, benchmarking and workforce operations.
+
+### Contributions
+
+* Campaign Creation workflows
+* Dataset management
+* Workflow Builder
+* Dynamic layer configuration
+* Schema mapping
+* Model Run workflows
+* Benchmarking interfaces
+* Evaluation dashboards
+* Vendor management
+* Annotator workflows
+* Job status and task management
+* Golden Data support
+* AI Layer execution
+* Data Versioning
+* Preference Labeling
+* API integrations
+* Complex role-based interfaces
+
+### Tech
+
+`Next.js` `React` `TypeScript` `Redux Toolkit` `React Query` `Tailwind CSS` `REST APIs`
+
+---
+
+## 🎧 SanathanaVani — Media Management Platform
+
+Media management platform supporting:
+
+* 🎵 Audio
+* 🎥 Video
+* 🎙️ Podcasts
+* 📚 eBooks
+* 📊 Analytics
+* 🔐 Role-based access
+
+### Tech
+
+`Next.js` `React` `TypeScript` `Redux Toolkit` `Tailwind CSS` `REST APIs`
+
+---
+
+## 🎓 Educare.AI — School Management Platform
+
+Multi-role school management platform with:
+
+* Admin Dashboard
+* Teacher Dashboard
+* Parent Dashboard
+* RBAC
+* Analytics
+* API-driven workflows
+
+### Tech
+
+`Next.js` `React` `TypeScript` `Redux Toolkit`
+
+---
+
+## 📊 Pronto — Admin Dashboard
+
+Booking and management platform featuring:
+
+* CRUD operations
+* Data tables
+* API integration
+* Admin workflows
+* Responsive dashboards
+
+### Tech
+
+`React` `Node.js` `Material UI` `REST APIs`
+
+---
+
+## 🤖 Fit4Hire — AI Career Platform
+
+Career platform focused on:
+
+* ATS Resume Builder
+* LinkedIn Analytics
+* Career workflows
+* Dashboard experiences
+
+### Tech
+
+`React` `Redux Toolkit` `Tailwind CSS`
+
+---
+
+# 📈 Currently Learning
+
+```text
+JavaScript Advanced
+        ↓
+Data Structures & Algorithms
+        ↓
+System Design
+        ↓
+Docker
+        ↓
+AWS
+        ↓
+Linux + Bash
+        ↓
+Cloud Architecture
+        ↓
+Distributed Systems
+        ↓
+Kubernetes
+        ↓
+Microservices
+```
+
+### 2026 Focus
+
+* ⚡ Advanced JavaScript
+* 🧠 DSA
+* 🐳 Docker
+* ☁️ AWS
+* 🐧 Linux
+* 💻 Bash
+* 🏗️ System Design
+* 🧪 Advanced Testing
+* 🚀 Scalable Backend Architecture
+
+---
+
+# 🧩 Engineering Interests
+
+```text
+Frontend Architecture
+       +
+Scalable SaaS Platforms
+       +
+Cloud Engineering
+       +
+Distributed Systems
+       +
+Developer Experience
+       +
+Performance Optimization
+```
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=dsriharikrishna&theme=dark&hide_border=true" alt="Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=dsriharikrishna&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.demolab.com?user=dsriharikrishna&theme=dark&hide_border=true" />
+
 </div>
 
 ---
 
-## ❤️ Support My Work
+# 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://dskh-portfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Visit_My_Portfolio-000?style=for-the-badge&logoColor=white" />
-  </a>
+<p align="left">
+
+<a href="https://github.com/dsriharikrishna">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/dasari-sriharikrishna">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://dsrikportfolio.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:dsriharik8432@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
+
+---
+
+## 👀 Profile Visitors
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=dsriharikrishna&style=flat-square&color=blue" />
+</p>
+
+---
+
+<h3 align="center">
+  ⚡ Build • Learn • Ship • Scale
+</h3>
+
+<h4 align="center">
+  Open to Product Engineering & Frontend opportunities
+</h4>

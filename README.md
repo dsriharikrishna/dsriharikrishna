@@ -5,12 +5,12 @@
   Hi, I'm <strong>Dasari Sriharikrishna</strong>
 </h1>
 
-<h3>🚀 Product Engineer | Frontend & Full-Stack Developer | React • Next.js • TypeScript</h3>
+<h3>🚀 Frontend-Focused Full Stack Developer | Next.js • React • TypeScript • Node.js • AWS • Docker</h3>
 
 <p>
-  <strong>2+ years of experience</strong> building scalable, production-ready web and mobile applications
-  with a strong focus on frontend architecture, SaaS platforms, dashboards, workflow systems and
-  API-driven applications.
+  <strong>2+ years of experience</strong> building scalable, production-grade enterprise web applications,
+  AI operations platforms, and SaaS systems. Strong foundation in frontend architecture and state management,
+  actively expanding into <strong>Full Stack + Cloud Engineering (AWS, Docker, CI/CD, Infrastructure)</strong>.
 </p>
 
 ---
@@ -18,39 +18,42 @@
 ## 👨‍💻 About Me
 
 * 💼 Product Engineer at **Signitives IT Solutions**
-* ⚛️ Specialized in **React.js, Next.js and TypeScript**
-* 📱 Experience building applications with **React Native**
-* 🏗️ Strong focus on **component-driven architecture & reusable UI systems**
-* 🔐 Experience with **RBAC, authentication & authorization-driven applications**
-* 📊 Built **analytics dashboards, admin panels and workflow-driven SaaS applications**
-* 🔌 Experienced in **REST API integration and API-driven frontend architecture**
-* 🗄️ Comfortable working with **Node.js, Express.js, FastAPI and databases**
-* 🐳 Currently strengthening **Docker, AWS and cloud engineering**
-* ☁️ Interested in building **scalable cloud-native applications**
-* 🎯 Preparing for **SDE-2 / Product Engineering opportunities**
+* ⚛️ Specialized in **React.js, Next.js (App Router, RSC), and TypeScript**
+* 🏗️ Architecture: **Component-Driven & Modular Design Systems, Enterprise Dashboards & Workflows**
+* 🔐 Security & Access: **RBAC, OAuth, Auth.js, and multi-tenant authorization workflows**
+* 🧩 State & Data: **Redux Toolkit, Zustand, TanStack Query (caching, optimistic updates)**
+* 🔌 Backend: **Node.js, Express.js, FastAPI, REST APIs, and microservice integration**
+* 🗄️ Databases: **PostgreSQL, MySQL, MongoDB, and Prisma ORM**
+* ☁️ Cloud & DevOps: **AWS (EC2, S3, ECS, ECR, ALB, RDS), Docker, Nginx, Linux (Ubuntu/WSL), Terraform**
+* 🧪 Testing: **Playwright, Jest, React Testing Library**
+* 🎯 Target Trajectory: **Full Stack + Cloud Engineer / Cloud Security**
 
 ---
 
 ## 🧠 Core Expertise
 
 ### 🎨 Frontend Engineering
+*Strongest Area*
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind" />
 </p>
 
-* React.js
-* Next.js (App Router)
-* TypeScript
-* JavaScript (ES6+)
-* HTML5 / CSS3
-* Tailwind CSS
-* Material UI
-* shadcn/ui
-* Responsive UI Development
-* Component-Driven Architecture
-* Reusable Design Systems
-* Performance Optimization
+* **React.js** (Hooks, Lifecycle, Reusable Components, Performance Tuning)
+* **Next.js** (App Router, React Server Components, Client Components, SSR/SSG)
+* **TypeScript** (Types, Interfaces, Generics, Type-safe patterns)
+* **JavaScript** (ES6+, Async/Await, Closures, Event Loop)
+* **Styling & UI**: Tailwind CSS, shadcn/ui, Material UI, Semantic HTML5, CSS3 (Flexbox/Grid)
+* **UI Animation**: Framer Motion, GSAP
+
+---
+
+### 🧩 State Management & Frontend Architecture
+
+* **Global & Client State**: Redux Toolkit, Redux Async Thunks, Zustand
+* **Server State & Data Fetching**: TanStack React Query (Caching, Invalidation, Optimistic Updates)
+* **Forms & Validation**: React Hook Form, Zod (Schema-based validation, complex multi-step forms)
+* **Data Presentation & Viz**: TanStack Table, Recharts
 
 ---
 
@@ -60,158 +63,80 @@
 <img src="https://skillicons.dev/icons?i=react" />
 </p>
 
-* React Native
-* Expo
-* Cross-platform application development
-* API integration
-* Authentication flows
-* Reusable mobile components
+* React Native & Expo
+* Cross-platform application flows & API integration
+* Reusable mobile components & authentication handling
 
 ---
 
-### 🧩 State Management & Data Fetching
-
-* Redux Toolkit
-* Redux Async Thunks
-* Zustand
-* TanStack React Query
-* Server State Management
-* Client State Management
-* Optimistic Updates
-* API Caching
-* Query Invalidation
-
----
-
-### 📝 Forms & Validation
-
-* React Hook Form
-* Zod
-* Schema-based validation
-* Complex dynamic forms
-* Multi-step forms
-* Form state optimization
-
----
-
-### ⚙️ Backend Development
+### ⚙️ Backend Development & APIs
+*Working Knowledge & Active Depth*
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,java" />
 </p>
 
-* Node.js
-* Express.js
-* Python
-* FastAPI
-* REST APIs
-* Authentication & Authorization
-* CRUD APIs
-* API Integration
-* Backend Feature Development
+* **Node.js & Express.js** (Runtime, Asynchronous programming, REST API development)
+* **FastAPI & Python** (API development, data endpoints, Python fundamentals)
+* **Java** (Programming fundamentals, OOP)
+* **Auth & Security**: OAuth, Auth.js, JWT, Role-Based Access Control (RBAC)
+* **API Integration**: RESTful architecture, CRUD APIs, Webhooks, Error handling
 
 ---
 
-### 🗄️ Databases
+### 🗄️ Databases & ORM
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma" />
 </p>
 
-* PostgreSQL
-* MySQL
-* MongoDB
-* SQL
-* Prisma
-* Database relationships
-* Query optimization
-* Alembic migrations
+* **PostgreSQL & MySQL** (Relational schemas, SQL queries, Joins, Indexing, Filtering)
+* **MongoDB** (NoSQL document stores, aggregation basics)
+* **Prisma ORM** (Schema modeling, migrations, type-safe queries)
+* **Alembic** (Database migrations for Python backends)
 
 ---
 
-### 🏗️ Architecture & Engineering
-
-* Component-Driven Architecture
-* Feature-Based Architecture
-* RBAC Systems
-* Authentication Architecture
-* REST API Architecture
-* SaaS Application Architecture
-* Modular Frontend Architecture
-* Reusable Component Systems
-* Scalable Dashboard Architecture
-* OOP & Problem Solving
-
----
-
-### ☁️ Cloud & DevOps
+### ☁️ Cloud, DevOps & Infrastructure
+*Developing Specialization (Full Stack + Cloud)*
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,aws,linux,bash,git,github" />
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,bash,git,github" />
 </p>
 
-* Docker
-* Docker Compose
-* AWS
-* AWS S3
-* AWS EC2
-* AWS IAM
-* Presigned URLs
-* Vercel
-* Linux
-* Bash
-* Git
-* GitHub
-* CI/CD fundamentals
-
-> 🚧 Currently deepening my knowledge of AWS, Docker, Linux/Bash and cloud-native architecture.
+* **AWS Core**: EC2 (Provisioning, SSH), S3 (Static hosting, Bucket policies, Presigned URLs)
+* **AWS Containers & Networking**: ECS (Container deployment), ECR (Docker image registry), ALB (Load balancing & routing), RDS (Managed databases)
+* **Containerization**: Docker, Docker Compose, Multi-stage builds
+* **Web Server & Proxy**: Nginx (Reverse proxy, SSL, Routing)
+* **Infrastructure as Code & CI/CD**: Terraform (IaC fundamentals), GitHub Actions, Environment variables & GitHub Secrets
+* **OS & Shell**: Linux (Ubuntu, WSL, Kali Linux), Bash scripting, Git & GitHub workflows
 
 ---
 
-### 🧪 Testing & Quality
+### 🧪 Testing & Code Quality
 
-* Jest
-* React Testing Library
-* Playwright
-* Cypress
-* API Testing
-* Component Testing
-* End-to-End Testing
-* QA Bug Resolution
-* Production Debugging
+* **Testing Suites**: Playwright (E2E testing), Jest, React Testing Library, Cypress
+* **Quality Assurance**: Component testing, API testing, debugging in production, QA bug triage
 
 ---
 
-### 🎨 UI & Visualization
-
-* Framer Motion
-* GSAP
-* Three.js
-* Recharts
-* TanStack Table
-* MUI
-* shadcn/ui
-* Magic UI
-
----
-
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack Matrix
 
 <table>
 <tr>
 <td width="50%" align="center">
 
-### 💻 Languages
+### 💻 Languages & Runtimes
 
-<img src="https://skillicons.dev/icons?i=javascript,typescript,java,python,bash" />
+<img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,python,java,bash" />
 
 </td>
 
 <td width="50%" align="center">
 
-### 🎨 Frontend
+### 🎨 Frontend & Styling
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
 
 </td>
 </tr>
@@ -219,9 +144,9 @@
 <tr>
 <td width="50%" align="center">
 
-### ⚙️ Backend
+### ⚙️ Backend & Frameworks
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" />
+<img src="https://skillicons.dev/icons?i=express,fastapi,prisma" />
 
 </td>
 
@@ -245,7 +170,7 @@
 
 <td width="50%" align="center">
 
-### 🔧 Tools
+### 🔧 Tools & Workflow
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
@@ -391,41 +316,29 @@ Career platform focused on:
 
 ---
 
-# 📈 Currently Learning
+# 📈 Currently Building & Target Direction
+
+### 🎯 Primary Career Trajectory: **Full Stack + Cloud Engineer**
+> Combining proven frontend architecture & product engineering with scalable backend services, AWS cloud infrastructure, DevOps automation, and long-term cloud security (DevSecOps / IAM).
 
 ```text
-JavaScript Advanced
+Backend Engineering (Redis • Kafka • BullMQ • PostgreSQL Performance)
         ↓
-Data Structures & Algorithms
+System Design & Scalability (Caching • Queues • Microservices • Distributed Systems)
         ↓
-System Design
+Cloud Infrastructure & DevOps (AWS EKS • Terraform • GitHub Actions • Docker • ArgoCD)
         ↓
-Docker
+Observability & Telemetry (Prometheus • Grafana • CloudWatch • Distributed Tracing)
         ↓
-AWS
-        ↓
-Linux + Bash
-        ↓
-Cloud Architecture
-        ↓
-Distributed Systems
-        ↓
-Kubernetes
-        ↓
-Microservices
+Cloud Security & Governance (IAM • Network Security • Container Security • DevSecOps)
 ```
 
-### 2026 Focus
-
-* ⚡ Advanced JavaScript
-* 🧠 DSA
-* 🐳 Docker
-* ☁️ AWS
-* 🐧 Linux
-* 💻 Bash
-* 🏗️ System Design
-* 🧪 Advanced Testing
-* 🚀 Scalable Backend Architecture
+### 🛠️ Active Focus Areas:
+* ⚙️ **Backend Depth**: Redis, Kafka, BullMQ, Node.js internals, PostgreSQL query performance & tuning
+* ☁️ **Cloud & Infrastructure**: AWS (EC2, S3, ECS, ECR, ALB, RDS), Terraform (IaC), Docker containerization
+* 🏗️ **System Design**: Scalable distributed systems, caching patterns, event-driven queues, microservices
+* 📊 **Observability & CI/CD**: Prometheus, Grafana, GitHub Actions automated CI/CD pipelines
+* 🔐 **Security & Access**: IAM policies, cloud security standards, DevSecOps principles
 
 ---
 
@@ -498,5 +411,5 @@ Performance Optimization
 </h3>
 
 <h4 align="center">
-  Open to Product Engineering & Frontend opportunities
+  Open to Full Stack, Product Engineering & Cloud-Oriented opportunities
 </h4>

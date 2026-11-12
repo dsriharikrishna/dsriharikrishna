@@ -92,7 +92,7 @@
 
 *Every commit builds another skyscraper — automatically rendered in real-time.*
 
-<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Night Skyline" width="100%"/>
+<img src="./profile-3d-contrib/profile-night-view.svg?v=1" alt="3D Contribution Night Skyline" width="100%"/>
 
 <br/><br/>
 

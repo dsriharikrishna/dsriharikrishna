@@ -16,7 +16,7 @@
 <br/><br/>
 
 <!-- 🪪 5. HOLOGRAPHIC ID BADGE & PRODUCTION DASHBOARD -->
-<img src="./id-dashboard.svg?v=1" alt="ID Badge & Production KPI Dashboard" width="100%"/>
+<img src="./id-dashboard.svg?v=2" alt="ID Badge & Production KPI Dashboard" width="100%"/>
 
 <br/><br/>
 

@@ -1,0 +1,227 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 340" width="100%" height="100%">
+  <defs>
+    <!-- Background & Glass Gradients -->
+    <linearGradient id="about-bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d0e16"/>
+      <stop offset="50%" stop-color="#121424"/>
+      <stop offset="100%" stop-color="#0a0b12"/>
+    </linearGradient>
+
+    <linearGradient id="aurora-border" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="50%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#f472b6"/>
+    </linearGradient>
+
+    <pattern id="dot-texture" x="0" y="0" width="18" height="18" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#ffffff" fill-opacity="0.04"/>
+    </pattern>
+
+    <clipPath id="panel-left-clip">
+      <rect x="0" y="0" width="445" height="340" rx="14" ry="14"/>
+    </clipPath>
+    <clipPath id="panel-right-clip">
+      <rect x="475" y="0" width="445" height="340" rx="14" ry="14"/>
+    </clipPath>
+  </defs>
+
+  <style>
+    .font-sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+    .font-mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+
+    /* Blinking Terminal Cursor */
+    @keyframes cursorBlink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+    .term-cursor { animation: cursorBlink 1s infinite; }
+
+    /* Carousel Story Progress Bars */
+    @keyframes barProgress1 {
+      0% { width: 0%; }
+      33% { width: 100%; }
+      100% { width: 100%; }
+    }
+    @keyframes barProgress2 {
+      0%, 33% { width: 0%; }
+      66% { width: 100%; }
+      100% { width: 100%; }
+    }
+    @keyframes barProgress3 {
+      0%, 66% { width: 0%; }
+      100% { width: 100%; }
+    }
+    .bar-1 { animation: barProgress1 12s infinite linear; }
+    .bar-2 { animation: barProgress2 12s infinite linear; }
+    .bar-3 { animation: barProgress3 12s infinite linear; }
+
+    /* Carousel Slides Crossfade */
+    @keyframes slideCrossfade1 {
+      0%, 30% { opacity: 1; transform: translateY(0); }
+      34%, 96% { opacity: 0; transform: translateY(6px); }
+      100% { opacity: 1; transform: translateY(0); }
+    }
+    @keyframes slideCrossfade2 {
+      0%, 30% { opacity: 0; transform: translateY(-6px); }
+      34%, 63% { opacity: 1; transform: translateY(0); }
+      67%, 100% { opacity: 0; transform: translateY(6px); }
+    }
+    @keyframes slideCrossfade3 {
+      0%, 63% { opacity: 0; transform: translateY(-6px); }
+      67%, 96% { opacity: 1; transform: translateY(0); }
+      100% { opacity: 0; transform: translateY(-6px); }
+    }
+    .slide-1 { animation: slideCrossfade1 12s infinite ease-in-out; }
+    .slide-2 { animation: slideCrossfade2 12s infinite ease-in-out; }
+    .slide-3 { animation: slideCrossfade3 12s infinite ease-in-out; }
+
+    /* Daily Activity Rings Loop */
+    @keyframes ringDash {
+      0% { stroke-dashoffset: 140; }
+      50% { stroke-dashoffset: 20; }
+      100% { stroke-dashoffset: 140; }
+    }
+    .ring-cyan { stroke-dasharray: 140; animation: ringDash 6s ease-in-out infinite; }
+    .ring-violet { stroke-dasharray: 110; animation: ringDash 6s ease-in-out infinite 0.5s; }
+    .ring-pink { stroke-dasharray: 80; animation: ringDash 6s ease-in-out infinite 1s; }
+  </style>
+
+  <!-- ================= LEFT CARD: WHAT I BUILD ================= -->
+  <g transform="translate(0, 0)">
+    <!-- Card Frame -->
+    <rect x="1" y="1" width="443" height="338" rx="14" fill="url(#about-bg-grad)" stroke="url(#aurora-border)" stroke-width="1.2"/>
+    <rect x="0" y="0" width="445" height="340" rx="14" fill="url(#dot-texture)" clip-path="url(#panel-left-clip)"/>
+
+    <!-- Fake Browser Window Header -->
+    <rect x="1" y="1" width="443" height="38" rx="14" fill="#141727"/>
+    <!-- Window Controls -->
+    <circle cx="22" cy="20" r="5" fill="#f43f5e" opacity="0.8"/>
+    <circle cx="38" cy="20" r="5" fill="#eab308" opacity="0.8"/>
+    <circle cx="54" cy="20" r="5" fill="#22c55e" opacity="0.8"/>
+    <!-- URL Bar -->
+    <rect x="74" y="9" width="350" height="22" rx="6" fill="#090a10"/>
+    <text x="88" y="24" fill="#94a3b8" class="font-mono" font-size="10.5">https://dsriharikrishna.dev/architecture</text>
+    <rect x="348" y="14" width="6" height="12" fill="#22d3ee" class="term-cursor"/>
+
+    <!-- Card Header / Title -->
+    <text x="24" y="68" fill="#e2e8f0" class="font-sans" font-size="16" font-weight="700">🏗️ What I Engineer &amp; Deliver</text>
+
+    <!-- Row 1: Enterprise Frontends & Dashboards -->
+    <g transform="translate(24, 88)">
+      <rect x="0" y="0" width="397" height="66" rx="10" fill="#131627" stroke="#1f253d" stroke-width="1"/>
+      <!-- Icon Tile -->
+      <rect x="10" y="10" width="46" height="46" rx="8" fill="#1e243d"/>
+      <text x="21" y="39" class="font-sans" font-size="20">⚛️</text>
+      <!-- Texts -->
+      <text x="68" y="28" fill="#f8fafc" class="font-sans" font-size="13" font-weight="600">Enterprise SaaS &amp; AI Dashboards</text>
+      <text x="68" y="48" fill="#94a3b8" class="font-sans" font-size="11">Production Next.js, React 19, RBAC systems, &amp; data-rich tables</text>
+    </g>
+
+    <!-- Row 2: Workflow Automation & Complex Forms -->
+    <g transform="translate(24, 164)">
+      <rect x="0" y="0" width="397" height="66" rx="10" fill="#131627" stroke="#1f253d" stroke-width="1"/>
+      <rect x="10" y="10" width="46" height="46" rx="8" fill="#1e243d"/>
+      <text x="21" y="39" class="font-sans" font-size="20">🧩</text>
+      <text x="68" y="28" fill="#f8fafc" class="font-sans" font-size="13" font-weight="600">Dynamic Workflow Engines &amp; UI Logic</text>
+      <text x="68" y="48" fill="#94a3b8" class="font-sans" font-size="11">Visual workflow builders, multi-step validation, schema mappers</text>
+    </g>
+
+    <!-- Row 3: Scalable Cloud & API Architecture -->
+    <g transform="translate(24, 240)">
+      <rect x="0" y="0" width="397" height="66" rx="10" fill="#131627" stroke="#1f253d" stroke-width="1"/>
+      <rect x="10" y="10" width="46" height="46" rx="8" fill="#1e243d"/>
+      <text x="21" y="39" class="font-sans" font-size="20">☁️</text>
+      <text x="68" y="28" fill="#f8fafc" class="font-sans" font-size="13" font-weight="600">Cloud-Native APIs &amp; Containerization</text>
+      <text x="68" y="48" fill="#94a3b8" class="font-sans" font-size="11">Node.js, FastAPI, Dockerized microservices, AWS ECS/S3 deployments</text>
+    </g>
+  </g>
+
+  <!-- ================= RIGHT CARD: HOBBIES & LIFE CAROUSEL ================= -->
+  <g transform="translate(475, 0)">
+    <!-- Card Frame -->
+    <rect x="1" y="1" width="443" height="338" rx="14" fill="url(#about-bg-grad)" stroke="url(#aurora-border)" stroke-width="1.2"/>
+    <rect x="0" y="0" width="445" height="340" rx="14" fill="url(#dot-texture)" clip-path="url(#panel-right-clip)"/>
+
+    <!-- Story-style Progress Bars Header -->
+    <g transform="translate(24, 18)">
+      <!-- Segment 1 Track & Fill -->
+      <rect x="0" y="0" width="124" height="3.5" rx="2" fill="#1e243a"/>
+      <rect x="0" y="0" width="0" height="3.5" rx="2" fill="#22d3ee" class="bar-1"/>
+
+      <!-- Segment 2 Track & Fill -->
+      <rect x="136" y="0" width="124" height="3.5" rx="2" fill="#1e243a"/>
+      <rect x="136" y="0" width="0" height="3.5" rx="2" fill="#a78bfa" class="bar-2"/>
+
+      <!-- Segment 3 Track & Fill -->
+      <rect x="272" y="0" width="124" height="3.5" rx="2" fill="#1e243a"/>
+      <rect x="272" y="0" width="0" height="3.5" rx="2" fill="#f472b6" class="bar-3"/>
+    </g>
+
+    <!-- Carousel Title & Header -->
+    <text x="24" y="48" fill="#94a3b8" class="font-mono" font-size="11" letter-spacing="1">CURRENT STATUS // INTERESTS</text>
+    <text x="24" y="70" fill="#e2e8f0" class="font-sans" font-size="16" font-weight="700">💫 Beyond The Terminal</text>
+
+    <!-- Slide 1: System Design & Deep Tech Reading -->
+    <g class="slide-1" transform="translate(24, 94)">
+      <rect x="0" y="0" width="397" height="122" rx="10" fill="#111425" stroke="#1d2238" stroke-width="1"/>
+      <text x="18" y="32" fill="#22d3ee" class="font-mono" font-size="12" font-weight="600">STORY 01 // ARCHITECTURE &amp; DSA</text>
+      <text x="18" y="60" fill="#f8fafc" class="font-sans" font-size="15" font-weight="600">Exploring Distributed Systems &amp; Scaling</text>
+      <text x="18" y="82" fill="#94a3b8" class="font-sans" font-size="12">Deconstructing real-world architectures, message queues (Kafka, BullMQ),</text>
+      <text x="18" y="100" fill="#94a3b8" class="font-sans" font-size="12">and mastering Data Structures &amp; Algorithms for high concurrency.</text>
+    </g>
+
+    <!-- Slide 2: Cloud Infrastructure & Security -->
+    <g class="slide-2" transform="translate(24, 94)">
+      <rect x="0" y="0" width="397" height="122" rx="10" fill="#111425" stroke="#1d2238" stroke-width="1"/>
+      <text x="18" y="32" fill="#a78bfa" class="font-mono" font-size="12" font-weight="600">STORY 02 // CLOUD &amp; HOMELAB</text>
+      <text x="18" y="60" fill="#f8fafc" class="font-sans" font-size="15" font-weight="600">AWS Infrastructure &amp; DevSecOps</text>
+      <text x="18" y="82" fill="#94a3b8" class="font-sans" font-size="12">Tinkering with Terraform IaC, Docker containers, reverse proxies,</text>
+      <text x="18" y="100" fill="#94a3b8" class="font-sans" font-size="12">and hardening container security with Linux &amp; IAM policies.</text>
+    </g>
+
+    <!-- Slide 3: Anime, Music & Gaming -->
+    <g class="slide-3" transform="translate(24, 94)">
+      <rect x="0" y="0" width="397" height="122" rx="10" fill="#111425" stroke="#1d2238" stroke-width="1"/>
+      <text x="18" y="32" fill="#f472b6" class="font-mono" font-size="12" font-weight="600">STORY 03 // DOWNTIME &amp; RECHARGE</text>
+      <text x="18" y="60" fill="#f8fafc" class="font-sans" font-size="15" font-weight="600">Anime Buff, Synthwave &amp; Strategy Games</text>
+      <text x="18" y="82" fill="#94a3b8" class="font-sans" font-size="12">Huge enthusiast of captivating storytelling, coding to high-BPM synthwave,</text>
+      <text x="18" y="100" fill="#94a3b8" class="font-sans" font-size="12">and exploring rich open-world game design mechanics.</text>
+    </g>
+
+    <!-- Bottom Daily Activity Rings Component -->
+    <g transform="translate(24, 230)">
+      <rect x="0" y="0" width="397" height="88" rx="10" fill="#111425" stroke="#1d2238" stroke-width="1"/>
+      
+      <!-- Concentric Rings Visual -->
+      <g transform="translate(56, 44)">
+        <!-- Outer Ring Track & Ring (Cyan: Code Commits) -->
+        <circle cx="0" cy="0" r="30" fill="none" stroke="#1b2238" stroke-width="6"/>
+        <circle cx="0" cy="0" r="30" fill="none" stroke="#22d3ee" stroke-width="6" stroke-linecap="round" class="ring-cyan" transform="rotate(-90)"/>
+        
+        <!-- Middle Ring Track & Ring (Violet: System Design) -->
+        <circle cx="0" cy="0" r="22" fill="none" stroke="#1b2238" stroke-width="5"/>
+        <circle cx="0" cy="0" r="22" fill="none" stroke="#a78bfa" stroke-width="5" stroke-linecap="round" class="ring-violet" transform="rotate(-90)"/>
+        
+        <!-- Inner Ring Track & Ring (Pink: Cloud Labs) -->
+        <circle cx="0" cy="0" r="15" fill="none" stroke="#1b2238" stroke-width="4.5"/>
+        <circle cx="0" cy="0" r="15" fill="none" stroke="#f472b6" stroke-width="4.5" stroke-linecap="round" class="ring-pink" transform="rotate(-90)"/>
+      </g>
+
+      <!-- Rings Legend / Stats -->
+      <g transform="translate(120, 22)">
+        <circle cx="6" cy="6" r="4" fill="#22d3ee"/>
+        <text x="18" y="10" fill="#f1f5f9" class="font-sans" font-size="12" font-weight="600">Daily Code &amp; Architecture</text>
+        <text x="175" y="10" fill="#22d3ee" class="font-mono" font-size="11" font-weight="700">92%</text>
+
+        <circle cx="6" cy="27" r="4" fill="#a78bfa"/>
+        <text x="18" y="31" fill="#f1f5f9" class="font-sans" font-size="12" font-weight="600">DSA &amp; System Concepts</text>
+        <text x="175" y="31" fill="#a78bfa" class="font-mono" font-size="11" font-weight="700">80%</text>
+
+        <circle cx="6" cy="48" r="4" fill="#f472b6"/>
+        <text x="18" y="52" fill="#f1f5f9" class="font-sans" font-size="12" font-weight="600">Cloud &amp; DevOps Labs</text>
+        <text x="175" y="52" fill="#f472b6" class="font-mono" font-size="11" font-weight="700">75%</text>
+      </g>
+    </g>
+  </g>
+</svg>
+
